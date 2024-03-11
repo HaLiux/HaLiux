@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Henkka "HaLiux"
+- 👋 Hi, my name is Henri Aleksi "HaLiux" Liukka
 - 👀 I’m interested in nature, science and music
 - 🌱 I’m currently learning computer skills and linux developement
 - 💞️ I’m looking to collaborate on Void Linux, River WM and Zig
